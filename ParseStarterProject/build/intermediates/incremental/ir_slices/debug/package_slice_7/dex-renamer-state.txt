@@ -1,0 +1,4 @@
+#Sun May 05 20:44:30 ALMT 2019
+base.0=/Users/AlisherAbdrakhmanov/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
